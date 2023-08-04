@@ -1,6 +1,6 @@
 # Chatbot
 
-![](https://github.com/jbrun0r/assets/blob/main/2023-06-13%2020-36-09.gif?raw=true)
+![](https://github.com/jbrun0r/assets/blob/main/chatbot-front-end/chatbot.gif?raw=true)
 
 A Vue application that allows users to ask questions on various topics and track packages using a chatbot implemented with Rasa.
 
@@ -20,7 +20,7 @@ Chatbot is a Vue application that enables users to ask questions and receive res
 
 ## Screenshots
 
-![](https://github.com/jbrun0r/assets/blob/main/Captura%20de%20tela%20de%202023-06-13%2021-30-28.png?raw=true)
+![](https://github.com/jbrun0r/assets/blob/main/chatbot-front-end/chatbot.png?raw=true)
 
 ## Setup
 
