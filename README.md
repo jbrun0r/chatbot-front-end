@@ -1,6 +1,6 @@
 # Chatbot
 
-![](https://github.com/jbrun0r/assets/blob/main/chatbot-front-end/chatbot.gif?raw=true)
+![](https://github.com/jbrun0r/assets/blob/main/chatbot-front-end/quem-%C3%A9-Octocat.gif?raw=true)
 
 A Vue application that allows users to ask questions on various topics and track packages using a chatbot implemented with Rasa.
 
